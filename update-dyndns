@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # Simple DynDNS Host update script 
-# (C) by Paul C. Buetow 2006
+# (C) by Paul C. Buetow 2006, 2014
 # Mail:  paul at buetow dot org
-# WWW :  http://buetow.org
+# WWW :  http://paul.buetow.org
 #
 # You need a running BIND on a server box with root access.
 # You also need a new zone for your dyndns host.
